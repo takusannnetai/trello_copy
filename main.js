@@ -1,13 +1,3 @@
-// ==UserScript==
-// @name         Trello Share Button Clipboard Copy
-// @namespace    http://tampermonkey.net/
-// @version      1.6
-// @description  Copy Trello card name, due date, and URL to clipboard when clicking the "Share" button
-// @author       YourName
-// @match        https://trello.com/*
-// @grant        GM_setClipboard
-// ==/UserScript==
-
 (function() {
     'use strict';
 
